@@ -2,8 +2,9 @@ export const Task = (): JSX.Element => {
   return (
     <>
       <li>
-        <input type="checkbox" name="task" id="1" />
-        <label htmlFor="task">Water the plants</label>
+        <h3>Water the plants</h3>
+        <button>☑️</button>
+        <button>❌</button>
       </li>
       <li>
         <input type="checkbox" name="task" id="2" />

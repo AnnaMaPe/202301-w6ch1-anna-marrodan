@@ -48,6 +48,11 @@
 
 ## BUTTON
 
+- Recieves an icon
+- Recieves an action
+- Show the recieved icon inside a button
+- On click executes the recieved action
+
 ## FORM
 
 - Receives the add task action

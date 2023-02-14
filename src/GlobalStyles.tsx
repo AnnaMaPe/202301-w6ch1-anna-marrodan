@@ -13,6 +13,12 @@ ul, li {
   list-style: none;
 }
 
+button{
+  background: none;
+  border: none;
+}
+
+
 `;
 
 export default GlobalStyles;
