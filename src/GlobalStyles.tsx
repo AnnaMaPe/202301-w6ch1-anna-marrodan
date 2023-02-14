@@ -7,7 +7,7 @@ const GlobalStyles = createGlobalStyle`
   padding: 20px;
 }
 
-ul {
+ul, li {
   margin: 0;
   padding: 0;
   list-style: none;
