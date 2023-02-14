@@ -1,4 +1,4 @@
-import { ToggleStateButton } from "../Button/ToggleStateButton";
+import { ToggleStateButton } from "../ToggleStateButton/ToggleStateButton";
 import { TaskStyled } from "./TaskStyled";
 
 export const Task = (): JSX.Element => {
